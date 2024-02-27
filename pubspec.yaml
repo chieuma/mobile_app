@@ -1,0 +1,49 @@
+name: mobile_app
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: 6.1.1
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.16.0
+  image_picker: ^1.0.7
+  firebase_database: ^10.4.0
+  intl: ^0.17.0
+
+  quantity_input: ^1.0.2
+  mysql1: ^0.20.0
+  fluttertoast: ^8.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/image/
+    - assets/image/Apple/
+    - assets/image/Samsung/
+    - assets/image/Nokia/
+    - assets/image/Laptop/Macbook/
+
+    - assets/icon/
+  fonts:
+    - family: RubikMaps
+      fonts:
+        - asset: assets/fonts/RubikMaps-Regular.ttf
+    - family: BebasNeue
+      fonts:
+        - asset: assets/fonts/BebasNeue-Regular.ttf

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473039735313",
+    "project_id": "app-electronic-e70aa",
+    "storage_bucket": "app-electronic-e70aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473039735313:android:f7670c06a2abae81adffb0",
+        "android_client_info": {
+          "package_name": "com.example.app_electronic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQDq7mbYMeeXEPB2Z09GPfGVr-IBQF7GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
