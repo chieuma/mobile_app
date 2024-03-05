@@ -28,6 +28,9 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
+  flutter_dotenv: ^5.0.2
+  http: ^0.13.4
+  shared_preferences: ^2.0.15
 
 flutter:
   uses-material-design: true
@@ -40,6 +43,8 @@ flutter:
     - assets/image/Laptop/Macbook/
 
     - assets/icon/
+    - assets/image_system/
+    - assets/image_popular/
   fonts:
     - family: RubikMaps
       fonts:

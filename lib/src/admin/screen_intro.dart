@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_app/src/admin/account/account_admin/infor.dart';
-import 'package:mobile_app/src/admin/product_management.dart';
-import 'package:mobile_app/src/admin/order/order.dart';
+import 'package:mobile_app/src/admin/ui/account/account_admin/infor.dart';
+import 'package:mobile_app/src/admin/ui/product/product_management.dart';
+import 'package:mobile_app/src/admin/ui/order/order.dart';
 
 class AdminIntroScreen extends StatelessWidget {
   const AdminIntroScreen({super.key});

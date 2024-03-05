@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_app/src/admin/general/general.dart';
-import 'package:mobile_app/src/client/cart/cart_screen.dart';
-import 'package:mobile_app/src/client/general/general.dart';
+import 'package:mobile_app/src/admin/ui/general/general.dart';
+import 'package:mobile_app/src/client/ui/cart/cart_screen.dart';
+import 'package:mobile_app/src/client/ui/general/general.dart';
 import 'package:mobile_app/src/public/screen_intro/screen_intro.dart';
 import 'package:firebase_core/firebase_core.dart';
 // import 'package:mobile_app/src/client/general/general.dart';

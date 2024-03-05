@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_app/src/client/favourite/favourite_screen.dart';
+import 'package:mobile_app/src/client/model/phone/phone.dart';
+import 'package:mobile_app/src/client/ui/favourite/favourite_screen.dart';
 // import 'package:mobile_app/src/client/general/general.dart';
-import 'package:mobile_app/src/client/productdetailscreen/phone_detail_screen.dart';
-import 'package:mobile_app/src/model/shop/phone/phone.dart';
+import 'package:mobile_app/src/client/ui/productdetailscreen/phone_detail_screen.dart';
+
 
 class NavigationService {
   static final GlobalKey<NavigatorState> shopNavigatorKey =

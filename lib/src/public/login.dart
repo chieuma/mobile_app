@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_app/src/model/login_signup/code_login.dart';
+import 'package:mobile_app/src/model_public/login_signup/code_login.dart';
 import 'signup.dart';
 // ignore: unused_import
-import '../client/general/general.dart';
+import '../client/ui/general/general.dart';
 
 class Login extends StatefulWidget {
   const Login({Key? key}) : super(key: key);
